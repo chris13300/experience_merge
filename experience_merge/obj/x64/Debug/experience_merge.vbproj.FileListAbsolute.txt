@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\experience_merge\experience_merge\bin\x64\Debug\experience_merge.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\experience_merge\experience_merge\bin\x64\Debug\experience_merge.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\experience_merge\experience_merge\bin\x64\Debug\experience_merge.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\experience_merge\experience_merge\bin\x64\Debug\experience_merge.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\experience_merge\experience_merge\obj\x64\Debug\experience_merge.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\experience_merge\experience_merge\obj\x64\Debug\experience_merge.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\experience_merge\experience_merge\obj\x64\Debug\experience_merge.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\experience_merge\experience_merge\obj\x64\Debug\experience_merge.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\experience_merge\experience_merge\obj\x64\Debug\experience_merge.pdb
